@@ -1,7 +1,7 @@
 <h1 align="center">🕰️ Nikola Mhausser — Inventor del Tiempo Digital</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Codificando+el+futuro...;Moldeando+tecnolog%C3%ADa+con+alma+humana.;Explorador+de+la+IA+y+el+steampunk.;Dise%C3%B1ando+pr%C3%B3tesis+para+el+mañana.;Bienvenido+a+la+forja." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Bienvenido+a+la+forja." />
 </p>
 
 ---
