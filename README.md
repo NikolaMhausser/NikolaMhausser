@@ -1,77 +1,70 @@
-<h1 align="center" style="color:#0F4C81;">
-  ⚙️ Nikola Mhausser — Innovación con alma y lógica
+<h1 align="center" style="color:#0A3D62; font-family: 'Courier New', Courier, monospace;">
+  ⚙️ Nikola Mhausser — Forjando el futuro con código y alma ⚙️
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=26&duration=3500&color=005A9C&center=true&vCenter=true&width=650&lines=Python+%7C+C%2B%2B+%7C+React+%7C+Next.js+%7C+Firebase+%7C+TailwindCSS+%7C+IA+%7C+JavaScript" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=28&duration=3500&color=F1C40F&center=true&vCenter=true&width=650&lines=Python+%2F+C%2B%2B+%2F+React+%2F+Next.js+%2F+Firebase+%2F+TailwindCSS+%2F+IA+%2F+JavaScript" />
 </p>
 
 ---
 
-### 👨‍💻 Sobre mí
+### 👋 Hola, soy Nikola
 
-<p style="color:#0F4C81; font-size:16px;">
-Ingeniero Informático con pasión por la mecatrónica y la inteligencia artificial.  
-Combino la precisión del código con la creatividad del diseño para crear soluciones tecnológicas humanas y accesibles.  
-Apasionado por el estilo steampunk, la educación y la innovación con propósito.
-</p>
+> "Transformar el código en vida, y la vida en tecnología con corazón."  
+
+Ingeniero Informático y creador apasionado por la innovación tecnológica y la mecatrónica.  
+Exploro la magia del steampunk y la IA para construir soluciones humanas, elegantes y poderosas.  
 
 ---
 
-### 🛠 Herramientas y tecnologías
+### 💻 Tecnologías que domino
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,react,nextjs,firebase,tailwind,js,openai&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,react,nextjs,firebase,tailwind,js,openai&theme=dark" />
 </p>
 
 ---
 
-### 🔹 Proyectos destacados
+### 🚀 Proyectos en marcha
 
-- **Proyecta+** — Asistente IA para emprendedores (IA, UX, Backend).  
-- **ForgeByMhausser** — Creación de contenido y prototipos tecnológicos.  
-- Sistemas web personalizados para pymes con integración bancaria.  
-- Desarrollo de prótesis conectadas neuralmente.
+- **Proyecta+** — Asistente IA para emprendedores con visión y alma.  
+- **ForgeByMhausser** — Donde la tecnología se mezcla con arte y creatividad.  
+- Prototipos de prótesis neuronales conectadas.  
+- Plataformas web a medida para pymes con diseño y funcionalidad premium.
 
 ---
 
-### 📊 Mi actividad en GitHub
+### 📈 Mis stats en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NikolaMhausser&show_icons=true&theme=blue-green&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikolaMhausser&theme=blue-green&hide_border=true" width="48%" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=NikolaMhausser&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=NikolaMhausser&theme=dark&hide_border=true" />
 </p>
 
 ---
 
-### ✨ Inspiración y filosofía
+### ✨ Filosofía de creación
 
-> *"La tecnología que toca vidas debe ser tan elegante como funcional."*  
-> — Nikola Mhausser
+> 💡 Innovar con propósito.  
+> 🔧 Construir para el bien común.  
+> 🤝 La tecnología debe acercar, no separar.
 
 ---
 
-### 📫 Contacto
+### 📫 Conecta conmigo
 
 <p align="center">
-  <a href="mailto:nikola@mhtech.cl">
-    <img src="https://img.shields.io/badge/Email-nikola@mhtech.cl-005A9C?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/NikolaMhausser">
-    <img src="https://img.shields.io/badge/LinkedIn-NikolaMhausser-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/ForgeByMhausser">
-    <img src="https://img.shields.io/badge/Instagram-ForgeByMhausser-F7B500?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  <a href="mailto:nikola@mhtech.cl"><img src="https://img.shields.io/badge/Email-nikola@mhtech.cl-F1C40F?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+  <a href="https://linkedin.com/in/NikolaMhausser"><img src="https://img.shields.io/badge/LinkedIn-NikolaMhausser-0A3D62?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/ForgeByMhausser"><img src="https://img.shields.io/badge/Instagram-ForgeByMhausser-F1C40F?style=for-the-badge&logo=instagram&logoColor=black" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/jAYUbVXgESSti/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="200" />
 </p>
 
-<p align="center" style="color:#005A9C; font-weight:bold;">
-  ¡Gracias por visitar mi taller digital!  
-  La innovación comienza con una chispa.
+<p align="center" style="color:#F1C40F; font-weight:700; font-family: 'Courier New', Courier, monospace;">
+  ¡Gracias por visitar! Forja tu camino con pasión y lógica.  
 </p>
